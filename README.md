@@ -1,12 +1,13 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duc Anh. I am an Dat. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+Hello! I'm Duc Anh, a third-year Computer Science student specializing in Data Science. I have a keen interest in Big Data and Cloud platform, with a goal to become a Data Engineer. I'm constantly learning and developing my skills to exploring the latest trends and developments in the tech industry.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-026404229/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-026404229/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) [![Facebook](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) 
 
 
 
-![Anh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DucAnhNTT&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+https://camo.githubusercontent.com/acb08636ea081decded2a665c2a688005b298fdfe3cce8bf8416ba9c7d649eee/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c656c6f7576696e63782673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74
 
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
