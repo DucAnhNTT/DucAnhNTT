@@ -1,9 +1,6 @@
 ### WELCOME TO MY PAGE 👋👋👋
 Hello! I'm Duc Anh, a third-year Computer Science student specializing in Data Science. I have a keen interest in Big Data and Cloud platform, with a goal to become a Data Engineer. I'm constantly learning and developing my skills to exploring the latest trends and developments in the tech industry.<br>
-## 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-026404229/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) [![Facebook](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) 
-
+## 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-anh-nguy%E1%BB%85n-026404229/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DucAnhNTT) [![Facebook](https://i.stack.imgur.com/tskMh.png) Facebook](https://www.facebook.com/ducanh.pp) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucAnhNTT&hide_progress=true&show_icons=true&theme=transparent)
 
