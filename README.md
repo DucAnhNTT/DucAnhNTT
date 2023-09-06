@@ -4,7 +4,7 @@ Hello! I'm Duc Anh, a third-year Computer Science student specializing in Data S
 
 
 
-
+###
 <a href="https://github.com/uvipen/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
@@ -14,6 +14,11 @@ Hello! I'm Duc Anh, a third-year Computer Science student specializing in Data S
 
 
 
-<br>
+## ⚡ Favorite languages and tools
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucAnhNTT&hide_progress=true&show_icons=true&theme=transparent)
+
+## :octocat: Github contributions
+
+![lelouvincx's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucAnhNTT&show_icons=true&theme=transparent)
 
