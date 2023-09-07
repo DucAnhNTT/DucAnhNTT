@@ -5,6 +5,10 @@ Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to becom
 
 
 ###
+<a href="https://github.com/DucAnhNTT/movie-recom-pipeline-azure">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=EnglishQuiz&theme=radical" />
+</a>    
+
 <a href="https://github.com/DucAnhNTT/EnglishQuiz">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=EnglishQuiz&theme=radical" />
 </a>    
