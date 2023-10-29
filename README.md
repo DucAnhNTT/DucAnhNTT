@@ -3,7 +3,7 @@ Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to becom
 
 - 🚀 I am currently engaged in advanced data engineering projects, and continuously expanding my knowledge and skills in this field.
 
-- 💼 You can explore my diverse portfolio of projects on my personal website [ducanhntt.github.io](ducanhntt.github.io)
+- 💼 You can explore my diverse portfolio of projects on my personal website [ducanhntt.github.io](https://ducanhntt.github.io/)
 
 - 📧 For any professional inquiries, please reach out to me at **ducanh0285@gmail.com**
 
