@@ -31,9 +31,6 @@ Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to becom
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=movie-recom-pipeline-azure&theme=radical" />
 </a>    
 
-<a href="https://github.com/DucAnhNTT/airflow-project-ETL">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=airflow-project-ETL&theme=radical" />
-</a>   
 
 
 
