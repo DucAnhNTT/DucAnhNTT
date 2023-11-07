@@ -36,7 +36,47 @@ Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to becom
 </a>   
 
 
+#### :hammer_and_wrench: Languages and Tools :
 
+##### 💻 Programming : 
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
+![Scala](https://img.shields.io/badge/-Scala-000000?style=flat&logo=scala&logoColor=ffffff&labelColor=DC322F)
+
+##### 💾 Databases : 
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white&labelColor=316192)
+![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
+![Snowflake](https://img.shields.io/badge/Snowflake-000000?style=flat&logo=Snowflake&logoColor=white&labelColor=29B5E8)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
+
+##### 🤖 Data & ML : 
+
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
+![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+
+##### 🌐 Web Dev : 
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
+
+##### ☁️ Cloud : 
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
+![GCP](https://img.shields.io/badge/Google%20Cloud-000000?style=flat&logo=google-Cloud&logoColor=white&labelColor=4285F4)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=white&labelColor=0078D4)
+
+##### 🔨 Tools : 
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&logoColor=white&labelColor=2496ED)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
+![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 
 ## ⚡ Favorite languages and tools
 
