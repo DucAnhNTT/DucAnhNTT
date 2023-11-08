@@ -56,9 +56,10 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 
 ##### 🤖 Data Engineer: 
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
