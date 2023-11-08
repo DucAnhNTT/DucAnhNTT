@@ -57,6 +57,8 @@ Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to becom
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-000000?style=flat&logo=Apache-Airflow&logoColor=white&labelColor=017CEE)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
 ![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+![HDFS](https://img.shields.io/badge/HDFS-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+
 
 ##### 🌐 Web Dev : 
 
