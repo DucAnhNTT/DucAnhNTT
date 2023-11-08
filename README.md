@@ -1,4 +1,6 @@
-                                                                         ### 👋👋👋 WELCOME TO MY PAGE 👋👋👋
+<h1>
+  👋🏻 Hi,  I'm Duc Anh 
+</h1>
 Hello! I'm Duc Anh, a third-year Computer Science student,  with a goal to become a Data Engineer. My interest is in Big Data and Cloud technologies.<br>
 
 - 🚀 I am currently engaged in advanced data engineering projects, and continuously expanding my knowledge and skills in this field.
