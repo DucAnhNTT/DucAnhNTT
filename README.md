@@ -95,3 +95,8 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 
 ![DucAnh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DucAnhNTT&show_icons=true&theme=transparent)
 
+<!-- If you forked this repo, Change the username as yours -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&theme=radical&line_height=27" />
+   
+<br>
