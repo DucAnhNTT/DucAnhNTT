@@ -87,14 +87,7 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
 
-## ⚡ Favorite languages and tools
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DucAnhNTT&hide_progress=true&show_icons=true&theme=transparent)
-
-## :octocat: Github contributions
-
-![DucAnh's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DucAnhNTT&show_icons=true&theme=transparent)
-
+ <br>
 <!-- If you forked this repo, Change the username as yours -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&theme=radical&line_height=27" />
