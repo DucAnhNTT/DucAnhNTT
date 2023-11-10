@@ -89,7 +89,7 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 
  <br>
 <!-- If you forked this repo, Change the username as yours -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&theme=radical&line_height=27" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhntt&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ducanhntt&show_icons=true&theme=radical&line_height=27" />
    
 <br>
