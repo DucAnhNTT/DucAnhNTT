@@ -37,6 +37,11 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=dbt-learning&theme=radical" />
 </a>   
 
+<a href="https://github.com/DucAnhNTT/ML-and-DS-learning">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=ML-and-DS-learning&theme=radical" />
+</a>   
+
+
 
 #### :hammer_and_wrench: Languages and Tools :
 
