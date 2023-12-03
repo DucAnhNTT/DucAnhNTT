@@ -3,10 +3,8 @@
 </h1>
 A third-year Computer Science student,  with a goal to become a Data Engineer. My interest is in Big Data and Cloud technologies.<br>
 
-I'm focusing on [Machine Learning & Data Science Course](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery) 
-and building my first Kafka streaming project!!!.<br>
 
-- 🚀 I am currently engaged in advanced data engineering projects, and continuously expanding my knowledge and skills in this field.
+- 🚀 I'm focusing on [Machine Learning & Data Science Course](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery) and building my first Kafka streaming project!
 
 - 💼 You can explore my diverse portfolio of projects below or on my personal website [ducanhntt.github.io](https://ducanhntt.github.io/)
 
