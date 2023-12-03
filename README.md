@@ -73,12 +73,6 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 ### 📊 BI  Tools : 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-##### 🌐 Web Dev : 
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
-
 ##### ☁️ Cloud : 
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
