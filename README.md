@@ -22,21 +22,18 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=bigdata-ETL-pipeline&theme=radical" />
 </a>   
 
+<a href="https://github.com/DucAnhNTT/real-time-CDC-Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=real-time-CDC-Streaming&theme=radical" />
+</a>   
+
+
 <a href="https://github.com/DucAnhNTT/azure-real-time-pipeline-sales">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=azure-real-time-pipeline-sales&theme=radical" />
 </a>    
 
-<a href="https://github.com/DucAnhNTT/airflow-soda-snowflake">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=airflow-soda-snowflake&theme=radical" />
-</a>   
-
 <a href="https://github.com/DucAnhNTT/movie-recom-pipeline-azure">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=movie-recom-pipeline-azure&theme=radical" />
 </a>    
-
-<a href="https://github.com/DucAnhNTT/dbt-learning.git">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=dbt-learning&theme=radical" />
-</a>   
 
 <a href="https://github.com/DucAnhNTT/ML-and-DS-learning">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=ML-and-DS-learning&theme=radical" />
