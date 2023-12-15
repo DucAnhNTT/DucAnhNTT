@@ -4,7 +4,7 @@
 A third-year Computer Science student,  with a goal to become a Data Engineer. My interest is in Big Data and Cloud technologies.<br>
 
 
-- 🚀 I'm focusing on (Realtime Streaming with Apache Flink)[https://www.youtube.com/watch?v=deepQRXnniM&t=2046s] project!
+- 🚀 I'm focusing on [Realtime Streaming with Apache Flink](https://www.youtube.com/watch?v=deepQRXnniM&t=2046s) project!
 
 - 💼 You can explore my diverse portfolio of projects below or on my personal website [ducanhntt.github.io](https://ducanhntt.github.io/)
 
