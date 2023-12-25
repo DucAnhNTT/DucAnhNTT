@@ -22,9 +22,9 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=bigdata-ETL-pipeline&theme=radical" />
 </a>   
 
-<a href="https://github.com/DucAnhNTT/real-time-CDC-Streaming">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=real-time-CDC-Streaming&theme=radical" />
-</a>   
+<a href="https://github.com/DucAnhNTT/e2e-real-time-streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=e2e-real-time-streaming&theme=radical" />
+</a>    
 
 
 <a href="https://github.com/DucAnhNTT/azure-real-time-pipeline-sales">
@@ -34,6 +34,10 @@ A third-year Computer Science student,  with a goal to become a Data Engineer. M
 <a href="https://github.com/DucAnhNTT/movie-recom-pipeline-azure">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=movie-recom-pipeline-azure&theme=radical" />
 </a>    
+
+<a href="https://github.com/DucAnhNTT/real-time-CDC-Streaming">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=real-time-CDC-Streaming&theme=radical" />
+</a>   
 
 <a href="https://github.com/DucAnhNTT/ML-and-DS-learning">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DucAnhNTT&repo=ML-and-DS-learning&theme=radical" />
