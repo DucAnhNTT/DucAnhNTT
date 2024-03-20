@@ -3,6 +3,8 @@
 </h1>
 A third-year Computer Science student,  with a goal to become a Data Engineer. My interest is in Big Data and Cloud technologies.<br>
 
+- I'm currently dedicated to practicing data cleaning and SQL optimization, mirroring my enthusiasm for continuous learning and professional growth.
+
 - 💼 You can explore my diverse portfolio of projects below or on my personal website [ducanhntt.github.io](https://ducanhntt.github.io/)
 
 - 📧 For any professional inquiries, please reach out to me at **ducanh0285@gmail.com**
